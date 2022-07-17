@@ -1,0 +1,85 @@
+.navbar .navbar-nav .nav-link,.navbar-brand{
+    color: white;
+    border-radius: 5px;
+}
+.navbar .navbar-nav .nav-link.active,
+.navbar .navbar-nav .nav-link:focus{
+    color:blue;
+}
+.navbar .navbar-nav .nav-link:hover{
+    background-color: #5297fd;
+}
+.landing{
+    
+min-height: calc(100vh - 72px);
+}
+.auto_text{
+    color:chocolate;
+}
+.sLo{
+width: 30%;
+cursor:cell;
+}
+.card{
+    transition: 0.7s ease;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.images_g{
+    padding: 20px;
+}
+ul li i{
+    color:darkgoldenrod;
+}
+ul{
+    font-size: 18px;
+}
+.section3{
+    width: 80%;
+}
+.crd{
+    background-color: white;
+    width: 21.25em;
+    box-shadow: 0 5px 25px rgb(0, 0, 3 );
+    border-radius: 15px;
+    padding: 5px;
+    margin: 15px;
+    transition: 0.7s ease;
+
+}
+.crd:hover{
+   transform: scale(1.1);
+
+}
+.icon{
+   
+    font-size: 8em;
+    text-align: center;
+}
+.info{
+    text-align: center;
+}
+.info h3{
+    color: #448AFF;
+    font-size: 1.2em;
+    font-weight: 700;
+    margin: 10px;
+    
+    
+}
+.content{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.icons1 a i{
+   font-size: 50px;
+    margin: 50px;
+}
+.icons1{
+    margin-top: 100px;
+}
