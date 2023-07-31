@@ -21,10 +21,11 @@ width: 30%;
 cursor:cell;
 }
 .card{
-    transition: 0.7s ease;
+    transition: all .7s ease;
+    margin-bottom: 35px !important;
 }
 .card:hover{
-    transform: scale(1.1);
+    transform: scale(1.06);
 }
 .images_g{
     padding: 20px;
